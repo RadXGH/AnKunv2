@@ -1,7 +1,7 @@
 # AnKunv2
 AnKunv2 is an app a bit similar to YouTube but to stream anime.
 
-Updated from AnKun using Jetpack Compose.
+Updated from [AnKun](https://github.com/RadXGH/AnKun) using Jetpack Compose.
 
 # Tech Stack
 - Kotlin
