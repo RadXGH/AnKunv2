@@ -8,6 +8,8 @@ Updated from [AnKun](https://github.com/RadXGH/AnKun) using Jetpack Compose.
 - AndroidX
 - Jetpack Compose
 - skrape{it}
+- Coil
+- Google Accompanist - HorizontalPager
 
 # Developers
 Albert E (vradnisntlong@gmail.com)
