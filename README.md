@@ -7,7 +7,7 @@ Updated from [AnKun](https://github.com/RadXGH/AnKun) using Jetpack Compose.
 - Kotlin
 - AndroidX
 - Jetpack Compose
-- skrape{it}
+- Jsoup
 - Coil
 - Google Accompanist - HorizontalPager
 
